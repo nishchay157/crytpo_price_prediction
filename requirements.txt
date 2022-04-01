@@ -2,6 +2,6 @@ Python == 3.8.8
 NumPy
 pandas
 Keras
-Tensor-flow
-Jupyter Notebook
+scikit-learn
 flask
+gunicorn
